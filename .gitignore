@@ -1,0 +1,71 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# 忽略生成的音乐文件夹
+generated_music/
+
+# 忽略日志文件
+app.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# IDE 文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 依赖管理
+pip-log.txt
+pip-delete-this-directory.txt
+
+# 测试覆盖率
+.coverage
+htmlcov/
+
+# 构建输出
+build/
+dist/
+*.egg-info/
+
+# Node.js (如果你的项目包含前端代码)
+npm-debug.log
+yarn-error.log
+
+# 其他
+*.sqlite3
+   .env

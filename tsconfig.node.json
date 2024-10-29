@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "types": ["node", "yargs"], // 添加 "node" 和 "yargs" 类型定义
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["vite.config.ts"]
+}

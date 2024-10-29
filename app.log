@@ -1,0 +1,27 @@
+INFO:creative_spirit:Generating music for description: A test melody, duration: 3
+INFO:audiocraft.modules.codebooks_patterns:New pattern, time steps: 750, sequence steps: 754
+ERROR:creative_spirit:Error generating music: Numpy is not available
+ERROR:creative_spirit:Error in generate_music endpoint: Numpy is not available
+INFO:creative_spirit:Generating music for description: A happy melody, duration: 5
+ERROR:creative_spirit:Error generating music: Numpy is not available
+INFO:creative_spirit:Generating music for description: A happy melody, duration: 5
+ERROR:creative_spirit:Error generating music: Numpy is not available
+INFO:creative_spirit:Generating music for description: A test melody, duration: 3
+INFO:audiocraft.modules.codebooks_patterns:New pattern, time steps: 750, sequence steps: 754
+ERROR:creative_spirit:Error generating music: Numpy is not available
+ERROR:creative_spirit:Error in generate_music endpoint: Numpy is not available
+INFO:creative_spirit:Generating music for description: A happy melody, duration: 5
+ERROR:creative_spirit:Error generating music: Numpy is not available
+INFO:creative_spirit:Generating music for description: A happy melody, duration: 5
+ERROR:creative_spirit:Error generating music: Numpy is not available
+INFO:creative_spirit:Generating music for description: A test melody, duration: 3
+INFO:audiocraft.modules.codebooks_patterns:New pattern, time steps: 750, sequence steps: 754
+INFO:creative_spirit:Music generated successfully: generated_music\generated_music_-4262460149384492031.wav
+INFO:creative_spirit:Generating music for description: A happy melody, duration: 5
+INFO:creative_spirit:Music generated successfully: generated_music\generated_music_-5295958642224800552.wav
+INFO:creative_spirit:Generating music for description: A happy melody, duration: 5
+INFO:creative_spirit:Music generated successfully: generated_music\generated_music_-5295958642224800552.wav
+INFO:creative_spirit:Generating music for description: A sad song, duration: 5
+INFO:creative_spirit:Music generated successfully: generated_music\generated_music_-2146785576895737251.wav
+WARNING:huggingface_hub.file_download:Error while downloading from https://cdn-lfs.hf.co/repos/a7/32/a7328535834e9b3be898fab8867c7339313f87809c35a91759b4e1e3a9417d6b/ed3ac4983f682a999b0e4b6f072aad294c4fd9a7e968e90835ba5c4b466d3c7c?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model-00001-of-00008.safetensors%3B+filename%3D%22model-00001-of-00008.safetensors%22%3B&Expires=1730294884&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMDI5NDg4NH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy9hNy8zMi9hNzMyODUzNTgzNGU5YjNiZTg5OGZhYjg4NjdjNzMzOTMxM2Y4NzgwOWMzNWE5MTc1OWI0ZTFlM2E5NDE3ZDZiL2VkM2FjNDk4M2Y2ODJhOTk5YjBlNGI2ZjA3MmFhZDI5NGM0ZmQ5YTdlOTY4ZTkwODM1YmE1YzRiNDY2ZDNjN2M%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qIn1dfQ__&Signature=Nm2aH7IvWZFiHUiIEB7hWyVOLV3gY2Ip-esDENyBxgBabkX1MN0D3JG1z%7EBcSeosGb4%7E1Qgoi1dEIQJv7MMylqsI%7Edr8O3G9LXdnfK2TIbMQXhL7hU0jjSbeXiyIxKyS9FcUFORno21QHGKXxEU6wktz8LxsngEC9YqWbyRqR71dex8Eibvw%7ESI-QweVK8ng%7EdZH9oiE585yCr%7E3WJJ56eMzW8jLoxX9Uz1BtKMZoVY7ywtGo0M-g9dGWPoLuQI5Y91ZmgnTW4S0bWVnQ160nlRTerO9WRNLsDbWTOwREe5JV5vZFIfc1IsqJwZ--AG4lSU6tbM4TBd50E4YvxNyqA__&Key-Pair-Id=K3RPWS32NSSJCE: HTTPSConnectionPool(host='cdn-lfs.hf.co', port=443): Read timed out.
+Trying to resume download...

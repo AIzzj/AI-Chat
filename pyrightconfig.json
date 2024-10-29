@@ -1,0 +1,4 @@
+{
+  "reportMissingImports": "warning",
+  "ignore": ["flask_jwt_extended"]
+}
